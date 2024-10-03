@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marcos\\Desktop\\Desarrollo Back End\\API Rest\\PersonasAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13C052CC-315C-4144-8018-7286289896AB}|PersonasAPI\\PersonasAPI.csproj|c:\\users\\marcos\\desktop\\desarrollo back end\\api rest\\personasapi\\personasapi\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C052CC-315C-4144-8018-7286289896AB}|PersonasAPI\\PersonasAPI.csproj|solutionrelative:personasapi\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C052CC-315C-4144-8018-7286289896AB}|PersonasAPI\\PersonasAPI.csproj|c:\\users\\marcos\\desktop\\desarrollo back end\\api rest\\personasapi\\personasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C052CC-315C-4144-8018-7286289896AB}|PersonasAPI\\PersonasAPI.csproj|solutionrelative:personasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C052CC-315C-4144-8018-7286289896AB}|PersonasAPI\\PersonasAPI.csproj|c:\\users\\marcos\\desktop\\desarrollo back end\\api rest\\personasapi\\personasapi\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C052CC-315C-4144-8018-7286289896AB}|PersonasAPI\\PersonasAPI.csproj|solutionrelative:personasapi\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C052CC-315C-4144-8018-7286289896AB}|PersonasAPI\\PersonasAPI.csproj|c:\\users\\marcos\\desktop\\desarrollo back end\\api rest\\personasapi\\personasapi\\modelo\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C052CC-315C-4144-8018-7286289896AB}|PersonasAPI\\PersonasAPI.csproj|solutionrelative:personasapi\\modelo\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C052CC-315C-4144-8018-7286289896AB}|PersonasAPI\\PersonasAPI.csproj|c:\\users\\marcos\\desktop\\desarrollo back end\\api rest\\personasapi\\personasapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C052CC-315C-4144-8018-7286289896AB}|PersonasAPI\\PersonasAPI.csproj|solutionrelative:personasapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C052CC-315C-4144-8018-7286289896AB}|PersonasAPI\\PersonasAPI.csproj|c:\\users\\marcos\\desktop\\desarrollo back end\\api rest\\personasapi\\personasapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13C052CC-315C-4144-8018-7286289896AB}|PersonasAPI\\PersonasAPI.csproj|solutionrelative:personasapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C052CC-315C-4144-8018-7286289896AB}|PersonasAPI\\PersonasAPI.csproj|c:\\users\\marcos\\desktop\\desarrollo back end\\api rest\\personasapi\\personasapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C052CC-315C-4144-8018-7286289896AB}|PersonasAPI\\PersonasAPI.csproj|solutionrelative:personasapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C052CC-315C-4144-8018-7286289896AB}|PersonasAPI\\PersonasAPI.csproj|c:\\users\\marcos\\desktop\\desarrollo back end\\api rest\\personasapi\\personasapi\\migrations\\20230519232906_migracionpersonasdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C052CC-315C-4144-8018-7286289896AB}|PersonasAPI\\PersonasAPI.csproj|solutionrelative:personasapi\\migrations\\20230519232906_migracionpersonasdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marcos\\AppData\\Local\\Temp\\MetadataAsSource\\f409cdd2d3fd4cf39aed179dae2c8bb2\\DecompilationMetadataAsSourceFileProvider\\c641d4d2612b4739832b3a284e95d1d1\\DbContextOptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{13C052CC-315C-4144-8018-7286289896AB}|PersonasAPI\\PersonasAPI.csproj|c:\\users\\marcos\\desktop\\desarrollo back end\\api rest\\personasapi\\personasapi\\personasapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:1:0:{13C052CC-315C-4144-8018-7286289896AB}|PersonasAPI\\PersonasAPI.csproj|solutionrelative:personasapi\\personasapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{13C052CC-315C-4144-8018-7286289896AB}|PersonasAPI\\PersonasAPI.csproj|c:\\users\\marcos\\desktop\\desarrollo back end\\api rest\\personasapi\\personasapi\\personasapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:2:0:{13C052CC-315C-4144-8018-7286289896AB}|PersonasAPI\\PersonasAPI.csproj|solutionrelative:personasapi\\personasapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonasController.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\Desarrollo Back End\\API Rest\\PersonasAPI\\PersonasAPI\\Controllers\\PersonasController.cs",
+              "RelativeDocumentMoniker": "PersonasAPI\\Controllers\\PersonasController.cs",
+              "ToolTip": "C:\\Users\\Marcos\\Desktop\\Desarrollo Back End\\API Rest\\PersonasAPI\\PersonasAPI\\Controllers\\PersonasController.cs",
+              "RelativeToolTip": "PersonasAPI\\Controllers\\PersonasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-19T23:48:21.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\Desarrollo Back End\\API Rest\\PersonasAPI\\PersonasAPI\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "PersonasAPI\\Repositorio\\UsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\Marcos\\Desktop\\Desarrollo Back End\\API Rest\\PersonasAPI\\PersonasAPI\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "PersonasAPI\\Repositorio\\UsuarioRepositorio.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAgwHIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-07T18:35:20.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\Desarrollo Back End\\API Rest\\PersonasAPI\\PersonasAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PersonasAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Marcos\\Desktop\\Desarrollo Back End\\API Rest\\PersonasAPI\\PersonasAPI\\Program.cs",
+              "RelativeToolTip": "PersonasAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-19T23:11:59.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\Desarrollo Back End\\API Rest\\PersonasAPI\\PersonasAPI\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "PersonasAPI\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Marcos\\Desktop\\Desarrollo Back End\\API Rest\\PersonasAPI\\PersonasAPI\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "PersonasAPI\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAD4vy8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-07T18:56:08.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PersonasAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\Desarrollo Back End\\API Rest\\PersonasAPI\\PersonasAPI\\PersonasAPI.csproj",
+              "RelativeDocumentMoniker": "PersonasAPI\\PersonasAPI.csproj",
+              "ToolTip": "C:\\Users\\Marcos\\Desktop\\Desarrollo Back End\\API Rest\\PersonasAPI\\PersonasAPI\\PersonasAPI.csproj",
+              "RelativeToolTip": "PersonasAPI\\PersonasAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-03T19:59:15.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\Desarrollo Back End\\API Rest\\PersonasAPI\\PersonasAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PersonasAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Marcos\\Desktop\\Desarrollo Back End\\API Rest\\PersonasAPI\\PersonasAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PersonasAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-19T23:04:57.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\Desarrollo Back End\\API Rest\\PersonasAPI\\PersonasAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "PersonasAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Marcos\\Desktop\\Desarrollo Back End\\API Rest\\PersonasAPI\\PersonasAPI\\appsettings.json",
+              "RelativeToolTip": "PersonasAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-05-19T23:02:28.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonasAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\Desarrollo Back End\\API Rest\\PersonasAPI\\PersonasAPI\\PersonasAPI.csproj",
+              "RelativeDocumentMoniker": "PersonasAPI\\PersonasAPI.csproj",
+              "ToolTip": "C:\\Users\\Marcos\\Desktop\\Desarrollo Back End\\API Rest\\PersonasAPI\\PersonasAPI\\PersonasAPI.csproj",
+              "RelativeToolTip": "PersonasAPI\\PersonasAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-06-09T19:52:52.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Personas.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\Desarrollo Back End\\API Rest\\PersonasAPI\\PersonasAPI\\Modelo\\Personas.cs",
+              "RelativeDocumentMoniker": "PersonasAPI\\Modelo\\Personas.cs",
+              "ToolTip": "C:\\Users\\Marcos\\Desktop\\Desarrollo Back End\\API Rest\\PersonasAPI\\PersonasAPI\\Modelo\\Personas.cs",
+              "RelativeToolTip": "PersonasAPI\\Modelo\\Personas.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-19T22:51:55.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20230519232906_migracionPersonasDB.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\Desktop\\Desarrollo Back End\\API Rest\\PersonasAPI\\PersonasAPI\\Migrations\\20230519232906_migracionPersonasDB.cs",
+              "RelativeDocumentMoniker": "PersonasAPI\\Migrations\\20230519232906_migracionPersonasDB.cs",
+              "ToolTip": "C:\\Users\\Marcos\\Desktop\\Desarrollo Back End\\API Rest\\PersonasAPI\\PersonasAPI\\Migrations\\20230519232906_migracionPersonasDB.cs",
+              "RelativeToolTip": "PersonasAPI\\Migrations\\20230519232906_migracionPersonasDB.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-19T23:29:06.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbContextOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\AppData\\Local\\Temp\\MetadataAsSource\\f409cdd2d3fd4cf39aed179dae2c8bb2\\DecompilationMetadataAsSourceFileProvider\\c641d4d2612b4739832b3a284e95d1d1\\DbContextOptions.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\MetadataAsSource\\f409cdd2d3fd4cf39aed179dae2c8bb2\\DecompilationMetadataAsSourceFileProvider\\c641d4d2612b4739832b3a284e95d1d1\\DbContextOptions.cs",
+              "ToolTip": "Microsoft.EntityFrameworkCore.DbContextOptions",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenToolTip": "Microsoft.EntityFrameworkCore.DbContextOptions",
+              "WhenOpened": "2023-05-19T23:20:53.679Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
